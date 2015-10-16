@@ -17,7 +17,7 @@ namespace ZeusSharp
         private static bool stealToggle = true;
         private static int manaForQ = 235;
         private static Font _text;
-        private static System.Windows.Input.Key enableKey = System.Windows.Input.Key.M;
+        private static System.Windows.Input.Key enableKey = System.Windows.Input.Key.Shift;
         private static System.Windows.Input.Key toggleKey = System.Windows.Input.Key.J;
         private static System.Windows.Input.Key stealToggleKey = System.Windows.Input.Key.L;
 
